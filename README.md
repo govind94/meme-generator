@@ -1,5 +1,6 @@
 ## Meme Generator
 
+<img src="./meme-gen-2.png" alt="meme-generator" width="650" height="300" border="10" />
 <img src="./meme-gen.png" alt="meme-generator" width="650" height="300" border="10" />
 
 ### Other React Apps:
